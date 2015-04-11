@@ -1,0 +1,4 @@
+# folder logs
+logs/
+# игнорирует все файлы с форматом .txt
+docs/*.txt
